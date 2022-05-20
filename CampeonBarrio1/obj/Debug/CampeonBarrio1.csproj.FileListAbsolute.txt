@@ -1,0 +1,7 @@
+C:\Users\sofia\source\repos\CampeonBarrio1\obj\Debug\CampeonBarrio1.csproj.AssemblyReference.cache
+C:\Users\sofia\source\repos\CampeonBarrio1\obj\Debug\CampeonBarrio1.csproj.CoreCompileInputs.cache
+C:\Users\sofia\source\repos\CampeonBarrio1\bin\Debug\CampeonBarrio1.exe.config
+C:\Users\sofia\source\repos\CampeonBarrio1\bin\Debug\CampeonBarrio1.exe
+C:\Users\sofia\source\repos\CampeonBarrio1\bin\Debug\CampeonBarrio1.pdb
+C:\Users\sofia\source\repos\CampeonBarrio1\obj\Debug\CampeonBarrio1.exe
+C:\Users\sofia\source\repos\CampeonBarrio1\obj\Debug\CampeonBarrio1.pdb
