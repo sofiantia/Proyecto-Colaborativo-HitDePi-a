@@ -10,6 +10,7 @@ namespace CampeonBarrio5
     {
         //Atributos
 
+        private string años;
         private string nombre;
         private int campañas, puntos;
         private float promedio;
